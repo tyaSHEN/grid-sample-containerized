@@ -7,4 +7,4 @@
 # user and repository name in the format <github_user>/<repository_name>.
 #remotes::install_github("nrukt00vt/gridsample@03c2d10134cbf94dc8c7452c3a5967c8624e260a", force = TRUE, dependencies = TRUE)
 install.packages("MortalitySmooth")
-install.packages("tidyverse")
+install.packages("gridsample")
